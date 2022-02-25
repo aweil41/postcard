@@ -1,0 +1,45 @@
+---
+title: "Ari Weil"
+image: "ari1.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/ariweil"
+  - label: GitHub
+    url: "https://github.com/aweil41"
+  - label: Email
+    url: "aweil@uchicago.edu"
+output:
+  postcards::trestles
+---
+ 
+I am a PhD student in political science at the University of Chicago, studying political violence and rhetoric. My fields are international relations and quantitative methods. 
+
+## Education
+
+**The University of Chicago** | Chicago, IL
+
+Ph.D. in Political Science | 2020 - present
+
+**The University of Chicago** | Chicago, IL
+
+M.A. in International Relations | 2020
+
+**Pomona College** | Claremont, CA
+
+B.A. in International Relations | 2018
+
+## Education
+
+* PhD, Political Science, [University of Chicago](https://political-science.uchicago.edu/content/graduate-study-0), 2020 - present
+  + Certificate in Computational Social Science, 2021
+* MA, International Relations, [University of Chicago]https://cir.uchicago.edu/), 2020
+* BA, International Relations, [Pomona College](https://www.pomona.edu/academics/majors/international-relations), 2018
+
+
+
+
+
+## Experience
+
+**Chicago Project on Security and Threats (CPOST)** | Deputy Research Director| June 2019 - August 2020
+

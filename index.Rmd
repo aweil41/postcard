@@ -7,7 +7,7 @@ links:
   - label: GitHub
     url: "https://github.com/aweil41"
   - label: Email
-    url: "aweil@uchicago.edu"
+    url: "mailto:aweil@uchicago.edu"
 output:
   postcards::trestles
 ---
@@ -24,9 +24,13 @@ I am a PhD student in political science at the University of Chicago, studying p
 
 ## Experience
 
+**University of Chicago Political Science Department**
+
+*   Research Assistant | September 2020 - December 2021
+
 **Chicago Project on Security and Threats (CPOST)** 
 
-*   Deputy Research Director| June 2019 - August 2020
+*   Deputy Research Director | June 2019 - August 2020
 *   Research Assistant | January 2019 - June 2019
 
 
